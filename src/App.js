@@ -39,3 +39,16 @@ function App() {
 }
 
 export default App;
+
+
+/* 
+    App.js is my parent file. 
+    
+    State -> parent
+    
+  you cannot import a state from your child file to ur parent file!*/ 
+
+  /* 10 todos
+  
+  
+  5 are checked*/
